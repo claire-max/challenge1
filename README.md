@@ -27,4 +27,5 @@ CSS and HTML
 ![alt text](./assets/images/Mock-Up.jpg)
 
 ## Link to deployed application:
+https://claire-max.github.io/challenge1/
 
